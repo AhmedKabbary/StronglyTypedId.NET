@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0B522ABA-73A2-4838-826E-33AE62F29966}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{DEE5C02D-5226-4F44-99B2-DA4670A90494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StronglyTypedId", "src\StronglyTypedId\StronglyTypedId.csproj", "{C0C2C191-136D-42D4-A18C-270A690D9421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0C2C191-136D-42D4-A18C-270A690D9421} = {0B522ABA-73A2-4838-826E-33AE62F29966}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C2C191-136D-42D4-A18C-270A690D9421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C2C191-136D-42D4-A18C-270A690D9421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C2C191-136D-42D4-A18C-270A690D9421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C2C191-136D-42D4-A18C-270A690D9421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
